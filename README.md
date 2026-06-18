@@ -73,7 +73,7 @@ This gem used RSpec for testing.  To test simply run `bundle exec rspec` at the 
 
 # Releasing
 
-Follow the steps below when releasing a new version:
+Here are the steps to follow when releasing a new version:
 
 1. Update /lib/openstudio/analysis/version.rb to the next version. Make sure to follow semantic versioning.
 2. Add changes to the CHANGELOG.md.
